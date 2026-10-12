@@ -1,0 +1,18 @@
+# Environnement virtuel Python
+.venv/
+venv/
+
+# Fichiers temporaires Jupyter et Python
+.ipynb_checkpoints/
+__pycache__/
+
+# Fichier verrou créé par Excel quand le classeur est ouvert
+~$*.xlsx
+
+# Fichiers système Windows et réglages de l'éditeur
+Thumbs.db
+desktop.ini
+.vscode/
+
+# Énoncé du TP (document de l'enseignant, non publié)
+*.pdf
